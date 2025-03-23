@@ -84,7 +84,7 @@ Picture in GRAPHICS 15 mode (160 x 192 pixels, 7680 bytes + color registers):
 
 ### Humble Design
 
-Originaly, viewer was supposed to display also images created by [Humble Design](https://github.com/georger420/Atari-XY4150/tree/main/HumPlo) - the only vector graphics editor for ATARI XL/XE I know. For this reason was necessary to have font loaded and use it for displaying picture. Unfortunately, the results of parsing and displaying were not good enough. Circles and arc were crossing other shapes instead of touching only. So Humble design format is disabled. But possibility to load font internaly remained.
+Originally, viewer was supposed to display also images created by [Humble Design](https://github.com/georger420/Atari-XY4150/tree/main/HumPlo) - the only vector graphics editor for ATARI XL/XE I know. For this reason was necessary to have font loaded and use it for displaying picture. Unfortunately, the results of parsing and displaying were not good enough. Circles and arc were crossing other shapes instead of touching only. So Humble design format is disabled. But possibility to load font internaly remained.
 
 ### Font files
 
@@ -141,7 +141,7 @@ Viewer has built-in colour palette, but there is possible to use different, cust
 
 ![Jakub.act palette](/images/jakub-act.png)
 
-### Features originaly planned, but not implemented
+### Features originally planned, but not implemented
 
 Except of Huble Design pictures showing, there were other features planned, but not implemented:
 

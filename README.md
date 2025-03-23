@@ -126,7 +126,7 @@ In palette choose colour and click on that. The background of dialog will change
 
 ![Select color from palette](/images/change-color-2.png)
 
-In palettře dialog cklick on OK button:
+In palette dialog cklick on OK button:
 
 ![The result](/images/change-color-3.png)
 

@@ -167,7 +167,7 @@ Except of Huble Design pictures showing, there were other features planned, but 
 
 ### Compilation
 
-For successfull compilation there are necessary three "includes" files, which are not enclosed to reporsitory due to copyright:
+For successfull compilation there are necessary three "includes" files, which are not enclosed to repository due to copyright:
 
 - Rapidq.inc
 - QAbout.inc

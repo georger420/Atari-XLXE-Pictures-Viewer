@@ -156,7 +156,7 @@ Except of Huble Design pictures showing, there were other features planned, but 
 ### Content of repository:
 
 - Atari-Images directory contains pictures in Atari formats
-- images directory contains iages used in this Readme
+- images directory contains images used in this Readme
 - RapidQBasic directory:
     - ABarvy.inc - default built in color palette
     - atariPic21.bas - main program
